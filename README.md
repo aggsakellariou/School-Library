@@ -8,7 +8,6 @@ A comprehensive library management application built using C#, where users can m
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -46,7 +45,3 @@ A comprehensive library management application built using C#, where users can m
 2. Use the menu to add new books, update existing book information, or delete books.
 3. Search for specific books by entering the title, author, or ISBN in the search bar.
 4. Manage your library effectively by keeping the book records updated.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
