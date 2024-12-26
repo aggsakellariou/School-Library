@@ -27,7 +27,7 @@ A comprehensive library management application built using C#, where users can m
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/library-management-system.git
+    git clone https://github.com/aggsakellariou/library-management-system.git
     ```
 
 2. Open the solution file (`Library1.1.sln`) using Visual Studio.
